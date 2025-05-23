@@ -31,3 +31,8 @@ For suggestions or questions, feel free to reach out.
    cd diabetes-predictor-app
 2. To Run
    streamlit run app.py
+
+
+
+Deploy Link
+https://diabetes-risk-predictor-vvjeuvc6s9xe2m6xhr8pcg.streamlit.app/
